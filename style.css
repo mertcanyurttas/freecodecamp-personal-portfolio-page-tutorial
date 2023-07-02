@@ -218,6 +218,7 @@ header section p {
 }
 
 .contact-section .contact-section-header p {
+    font-size: 1.8rem;
     font-style: italic;
     font-weight: 500;
 }
